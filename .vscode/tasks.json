@@ -7,7 +7,7 @@
             "command": "cmd",
             "args": [
                 "/c",
-                "g++ -o Cortar_Vegetales.exe Cortar_Vegetales.cpp -lpthread && start cmd /k Cortar_Vegetales.exe"
+                "g++ -o cortar_vegetales.exe cortar_vegetales.cpp -lpthread && start cmd /k cortar_vegetales.exe"
             ],
             "group": {
                 "kind": "build",
